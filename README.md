@@ -1,1 +1,1 @@
-# genesis-gsme
+# genesis-game
